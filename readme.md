@@ -8,4 +8,4 @@ This is a simple CRUD todos app in Laravel.
 -> Delete a todo.
 
 ## TodosApp Snapshot
-<p align="center"><a href="https://ibb.co/f1ZNPc"><img src="https://preview.ibb.co/gZAwjc/screenshot.png" alt="screenshot" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /></p>
+<a href="http://tinypic.com?ref=2ef3wvo" target="_blank"><img src="http://i63.tinypic.com/2ef3wvo.png" border="0" alt="Image and video hosting by TinyPic"></a>
